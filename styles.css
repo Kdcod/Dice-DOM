@@ -1,9 +1,6 @@
 @media (max-width: 900px) {
-  .img1 {
-    width: 100%;
-  }
-  .img2 {
-    width: 100%;
+  .heading {
+    margin-top: 50%;
   }
 }
 .container {
