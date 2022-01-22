@@ -1,9 +1,9 @@
 @media (max-width: 900px) {
-  body {
-    font-size: auto;
+  .img1 {
+    width: 100%;
   }
-  .dice {
-    width: auto;
+  .img2 {
+    width: 100%;
   }
 }
 .container {
