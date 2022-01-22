@@ -1,6 +1,6 @@
 @media (max-width: 900px) {
   body {
-    font-size: 100px;
+    font-size: auto;
   }
   .dice {
     width: auto;
