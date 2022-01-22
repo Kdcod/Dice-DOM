@@ -2,6 +2,9 @@
   body {
     font-size: 100px;
   }
+  .dice {
+    width: auto;
+  }
 }
 .container {
   width: 70%;
